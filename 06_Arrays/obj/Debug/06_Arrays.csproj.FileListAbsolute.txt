@@ -1,0 +1,7 @@
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\06_Arrays\obj\Debug\06_Arrays.pdb

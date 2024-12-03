@@ -1,0 +1,7 @@
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\bin\Debug\03_KararYapilari.exe.config
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\bin\Debug\03_KararYapilari.exe
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\bin\Debug\03_KararYapilari.pdb
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\obj\Debug\03_KararYapilari.csproj.AssemblyReference.cache
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\obj\Debug\03_KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\obj\Debug\03_KararYapilari.exe
+C:\Users\Alperen İnal\Source\Repos\Egitim\C#Egitim\03_KararYapilari\obj\Debug\03_KararYapilari.pdb
